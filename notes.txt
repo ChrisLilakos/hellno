@@ -8,4 +8,4 @@ git commit -am "add and commit all files plus a message"
 git push
 *changes made on remote repo (the github website)*
 git pull
-*line added offline*
+*text added online*
