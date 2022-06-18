@@ -18,3 +18,12 @@ result from merging conflict. now i choose what and what not to keep/change/remo
 *nothing was removed*
 git commit -am "..."
 git push
+**added while in para branch about branches**
+git pull
+git branch 
+*shows all branches and which one im in currently*
+git checkout -b *name_of_-bNew_and_checkoutSwitched_to_branch*
+*nothing changed to main branch though so obstacle thats posed as learning experience averted*
+git checkout main
+**exited para back in main**
+git merge para
