@@ -8,4 +8,9 @@ git commit -am "add and commit all files plus a message"
 git push
 *changes made on remote repo (the github website)*
 git pull
+result from merging conflict. now i choose what and what not to keep/change/remove:
+<<<<<<< HEAD
 *this line added offline*
+=======
+*text added online*
+>>>>>>> 369407e7d276fc047c2a2a42285824892ad0a503
