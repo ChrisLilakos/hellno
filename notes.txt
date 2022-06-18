@@ -7,6 +7,7 @@ git push
 git commit -am "add and commit all files plus a message"
 git push
 *changes made on remote repo (the github website)*
+git commit -am "..."
 git pull
 result from merging conflict. now i choose what and what not to keep/change/remove:
 <<<<<<< HEAD
@@ -14,3 +15,6 @@ result from merging conflict. now i choose what and what not to keep/change/remo
 =======
 *text added online*
 >>>>>>> 369407e7d276fc047c2a2a42285824892ad0a503
+*nothing was removed*
+git commit -am "..."
+git push
