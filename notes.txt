@@ -1,0 +1,4 @@
+git clone linnk
+git add
+git commit -m "messsage"
+git status
