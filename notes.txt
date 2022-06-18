@@ -1,4 +1,6 @@
-git clone linnk
+git clone link
 git add
 git commit -m "messsage"
 git status
+git push
+git commit -am "add and commit all files plus a message"
